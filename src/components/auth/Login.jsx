@@ -13,7 +13,7 @@ const Login = () => {
   }
   return (
     <>
-    <div className="flex h-screen w-screen justify-center bg-[url('../../../public/bg.jpg')] bg-cover bg-center ">
+    <div className="flex h-screen w-screen justify-center bg-[url('bg.jpg')] bg-cover bg-center ">
       <div className="flex justify-center items-center w-[50vw] h-[100vh] bg-black" >
         <div className="border-full border-indigo-600 justify-center items-center p-20 border-2 rounded">
           <form  onSubmit= {(e)=>{
