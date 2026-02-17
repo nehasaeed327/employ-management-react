@@ -1,12 +1,17 @@
 @import "tailwindcss";
 
 body{
-  background-color: #1c1c1c;
+  background-color: #dadada;
   overflow-x: hidden;
+  color:#1c1c1c;
 }
 
 
 #taskList::-webkit-scrollbar {
   display: none;
 }
+.date-input::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
 

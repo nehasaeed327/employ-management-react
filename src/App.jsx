@@ -1,6 +1,7 @@
 import React from 'react'
 import Login from './components/auth/Login'
 import Employ from './components/dashboard/Employ'
+import Newtask from './Tasklist/Newtask'
 
 
 const App = () => {
@@ -8,7 +9,9 @@ const App = () => {
 
   return (
     <>
-<Employ></Employ>
+   <Newtask></Newtask>
+   <Login></Login>
+   <Employ></Employ>
    </>
   )
 }

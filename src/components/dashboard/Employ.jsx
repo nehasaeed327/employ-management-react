@@ -13,7 +13,7 @@ const Employ = () => {
   return (
   
     
-    <div className='w-[1200px] bg-[#1c1c1c] p-10'>
+    <div className='w-[1200px]  p-10'>
      
       <Header></Header>
       <TaskListNumber></TaskListNumber>
