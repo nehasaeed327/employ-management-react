@@ -1,7 +1,7 @@
 import React from 'react'
-import Header from '../../other/header'
-import TaskListNumber from '../../other/taskListNumber'
-import Tasklist from '../../Tasklist/Tasklist'
+import Header from '../other/header'
+import TaskListNumber from '../other/taskListNumber'
+import Tasklist from '../other/Tasklist'
 
 
 
